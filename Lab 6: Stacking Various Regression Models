@@ -1,0 +1,6 @@
+"Sharing of code is restricted as per the course policies."
+
+Contents:
+Use the stacking ensemble method to train four regression models.
+Train and evaluate the same four regressors individually.
+Visualize and compare the performance of the stacked ensemble model to that of the individual models.

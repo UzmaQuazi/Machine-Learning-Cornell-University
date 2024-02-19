@@ -1,0 +1,7 @@
+"Sharing of code is restricted as per the course policies"
+
+Contents:
+Convert categorical features to one-hot encoded values.
+Train decision tree classifiers with various hyperparameter values.
+Train KNN classifiers with various hyperparameter values.
+Visualize the models' accuracies.

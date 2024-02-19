@@ -1,0 +1,6 @@
+"Sharing of code is restricted as per the course policies"
+
+Contents:
+Load and split the data into training and test sets
+Write a Python class that will train a logistic regression model
+Compare your implementation to scikit-learn's implementation

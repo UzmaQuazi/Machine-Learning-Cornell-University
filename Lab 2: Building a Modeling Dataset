@@ -1,0 +1,10 @@
+"Sharing of code is restricted as per the course policies"
+
+Contents:
+Load data and identify the number of records & columns
+Remove features that are not currently useful for analysis
+Modify features to make sure they are machine-comprehensible
+Build a new regression label column by winsorizing outliers
+Replace all missing values with means
+Identify two variables with the highest correlation with the label
+Build appropriate bivariate plots between the highest correlated features and the label

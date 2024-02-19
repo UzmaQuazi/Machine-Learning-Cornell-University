@@ -1,0 +1,8 @@
+"Sharing of code is restricted as per the course policies"
+
+Contents:
+Build a logistic regression model using scikit-learn's default hyperparameter value for C.
+Find the optimal logistic regression model using GridSearchCV.
+Evaluate both models' predictions using a confusion matrix.
+Plot the precision-recall curve, ROC, and compute the AUC for both models.
+Practice the SelectKBest feature selection method.

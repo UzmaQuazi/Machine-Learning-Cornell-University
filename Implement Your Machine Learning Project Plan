@@ -1,0 +1,14 @@
+"Sharing of code is restricted as per the course policies."
+
+Contents:
+Load your data set.
+Prepare your data for your model
+Fit your model to the training data and evaluate the model's performance
+Improve the model's performance
+
+In this lab you will implement the machine learning project plan you created in the assignment. You will:
+
+Load your data set and save it to a Pandas DataFrame.
+Create features and a label, and prepare your data for your model.
+Fit your model to the training data and evaluate your model.
+Show how you've improved upon your baseline model.

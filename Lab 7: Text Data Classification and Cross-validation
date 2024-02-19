@@ -1,0 +1,10 @@
+"Sharing of code is restricted as per the course policies."
+
+Contents:
+Discover new ways to use scikit-learn pipelines to automate the machine learning workflow.
+Combine two text columns to create one feature.
+Use a pipeline to transform features using a TF-IDF vectorizer and fit a logistic regression model to the transformed features.
+Add a grid search to the pipeline to find the optimal hyperparameter configuration
+Use different performance evaluation techniques in scikit-learn
+Repeat the above steps using a decision tree
+Compare the performances of using a logistic regression model vs. a decision tree for this problem.
